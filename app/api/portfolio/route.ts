@@ -1,0 +1,9 @@
+import { NextResponse } from "next/server";
+
+export async function GET() {
+  return NextResponse.json({
+    balance: 0,
+    pnl: 0,
+    positions: [],
+  });
+}
