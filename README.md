@@ -1,6 +1,6 @@
 
 # Jam Trade
-live-https://jam-trade-f5dpta80x-adithyas-projects-2a2b10f5.vercel.app/login
+live- https://jam-trade.vercel.app/login
 Axiom-style crypto trading platform built with **Next.js 14**, **TypeScript**, **Tailwind**, and **Zustand**.
 
 ## Features
